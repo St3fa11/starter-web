@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Stefan Harms stefan.harms@outlook.com @St3f4n.H4rms
 
 # THANKS
 
